@@ -1,4 +1,4 @@
-package Solution5;
+package ABC;
 
 import java.util.Scanner;
 
