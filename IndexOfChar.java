@@ -1,4 +1,4 @@
-package Solution10;
+package Str;
 
 import java.util.Scanner;
 
