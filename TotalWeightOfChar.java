@@ -1,4 +1,4 @@
-package Solution7;
+package Sol7;
 
 import java.util.Scanner;
 
